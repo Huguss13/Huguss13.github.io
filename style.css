@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap');
+
+body{
+    background-color: #2B8294;
+    text-align: center;
+    align-items: center;
+    color: #fff9c2;
+    justify-content: center;
+    height: 100vh;
+    margin: 30px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+#titulo{
+    font-family: "ADLaM Display", system-ui;
+    font-size: 300%;
+}
+
+button{
+    all: unset;
+}
+
+#imgtopo{
+    position: relative;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#botao{
+    position: relative;
+    bottom: 230px;
+}
+
+#cipo{
+    position: absolute;
+    left: -1.7%;
+    top: -3.4%;
+}
+
+#cipo2{
+    position: absolute;
+    right: -1.7%;
+    bottom: -3.4%;
+}
+
+#resultado{
+    position: absolute;
+    font-size: 80px;
+    margin-top: 280px;
+    margin-left: 520px;
+    color: #e08b86;
+    font-family: "ADLaM Display", system-ui;
+}
+
+#festa1{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+#festa2{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+#folha2{
+    position: absolute;
+    margin-left: -550px;
+    margin-top: 300px;
+}
+
+#nomes{
+    position: absolute;
+    font-size: 20px;
+    font-family: "ADLaM Display", system-ui;
+}

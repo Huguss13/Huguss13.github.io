@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap');
+
+body{
+    background-color: #fff9c2;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#perguntas{
+    margin-top: 250px;
+    margin-left: 650px;
+    text-align: center;
+    justify-content: center;
+}
+
+.balao{
+    margin-top: 5px;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    background-color: #2b8294; 
+    border-radius: 25px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    border: 5px solid black; 
+}
+
+#topo{
+    position: absolute;
+    left: 3%;
+    top: 3%;
+}
+
+button{
+    all: unset;
+}
+
+.balao:hover{
+    transform: scale(1.1);
+}
+
+.baixo{
+    position: absolute;
+    right: 1.8%;
+    bottom: 0;
+}
+
+.baixo1{
+    position: absolute;
+    left: 1.8%;
+    bottom: 2;
+}
+
+
+#pergunta1{
+    position: absolute;
+    margin-left: 480px;
+    top: 90px;
+    font-size: 50px;
+    color: #e08b86;
+}
+
+#pergunta2{
+    position: absolute;
+    margin-left: 280px;
+    top: 90px;
+    font-size: 50px;
+    color: #e08b86;
+}
+
+#pergunta3{
+    position: absolute;
+    margin-left: 100px;
+    top: 90px;
+    font-size: 50px;
+    color: #e08b86;
+}
+
+#pergunta4{
+    position: absolute;
+    margin-left: 240px;
+    top: 90px;
+    font-size: 50px;
+    color: #e08b86;
+}
+
+#pergunta5{
+    position: absolute;
+    margin-left: 390px;
+    top: 90px;
+    font-size: 50px;
+    color: #e08b86;
+}
+
+#pergunta6{
+    position: absolute;
+    margin-left: 150px;
+    top: 90px;
+    font-size: 50px;
+    color: #e08b86;
+}
+
+a {
+    text-decoration: none;
+}
